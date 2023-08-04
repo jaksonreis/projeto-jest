@@ -1,4 +1,4 @@
-const Person = require('../person');
+const Person = require('../services/person');
 
 let jakson = new Person("Jakson Luiz Reis", "jakson.reis@hotmail.com", new Date(1997, 1, 21));
 
